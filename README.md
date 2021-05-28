@@ -6,4 +6,4 @@ Instead of accessing data through one of the many portals available in the web, 
 
 In order to retrieve meaningful data from optical bands, request will be calibrated to get the first least cloud-free image from the chosen date.
 
-Examples with some of the most common indices will be shown in two ways: first getting data from a boundig box area around my hometown, second cropping the image for its administrative area bounding. 
+Examples with some of the most common indices will be shown in two ways: first getting data from a boundig box area around my hometown, second cropping the image for its administrative area boundings. 
